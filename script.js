@@ -38,23 +38,23 @@ q3a3.addEventListener("click", spring);
 function summer(){
   summerScore += 1;
   questionCount += 1;
-  console.log("QC=" + questionCount + "ss=" + summerScore)
+  console.log("QC=" + questionCount + "ss=" + summerScore);
 }
 
 function winter(){
   winterScore += 1;
   questionCount += 1;
-  console.log("QC=" + questionCount + "ws=" + winterScore)
+  console.log("QC=" + questionCount + "ws=" + winterScore);
 }
 
 function spring(){
   springScore += 1;
   questionCount += 1;
-  console.log("QC=" + questionCount + "sps=" + springScore)
+  console.log("QC=" + questionCount + "sps=" + springScore);
 }
 
 function fall(){
   fallScore += 1;
   questionCount += 1;
-  console.log("QC=" + questionCount + "fs=" + fallScore)
+  console.log("QC=" + questionCount + "fs=" + fallScore);
 }
