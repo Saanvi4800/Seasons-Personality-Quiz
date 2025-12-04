@@ -1,17 +1,24 @@
 /* STYLE SECTIONING TAGS */
 body {
-  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  font-family: "Courier New", Courier, monospace;
   margin: 2em;
+  background-color:#FFC0CB;
 }
 
 /* STYLE TEXT */
 h1 {
-  font-style: italic;
-  color: #0d9c90;
+  font-style: bold;
+  color: #5e6623;
 }
 
 h2 {
   margin-top: 2em; 
+}
+
+p {
+  font-style: bold;
+  color: #5e6623;
+  margin-left:5vh;
 }
 
 /* STYLE FLEX CONTAINER */
@@ -34,5 +41,8 @@ h2 {
 
 /* STYLE BUTTON */
 button { 
+  font-family: "Courier New", Courier, monospace;
   margin-top: 5px;
+  background-color: #5e6623;
+  color: #ffffff;
 }
