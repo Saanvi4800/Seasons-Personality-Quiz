@@ -1,36 +1,9 @@
-# Personality Quiz Starter Code
+## How to Run
+Unzip the file: Extract the contents of the downloaded ZIP file to a local folder on your computer.
 
-This is a place for you to start building your personality quiz!
+Open with a browser: Navigate to the project folder, locate the index.html file, and double-click it. This will open the project in your default web browser.
 
-### Project Requirements
-Your project should:
-- Have at least three questions.
-- Have at least two answers to each question that correspond to the quiz outcomes.
-- Allow a person to select an answer by clicking a button.
-- Display different outcomes for different combinations of answer selections.
-
-
-### Extensions
-You can extend your project further by:
-- Adding more questions to your quiz.
-- Customizing the look and feel with CSS.
-- Allow a person to restart the quiz by clicking a button.
-- Creating a button to update result instead of having it display unprompted.
-- Disabling buttons after a person selects an answer.
-
-
-### Image Attributions
-*Tell us where you found the image you are using! Make sure it is in the public domain, has a license that allows you to use it, or is one you took on your own. Check out [archive.org](https://archive.org/), [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/), or [Burst](https://burst.shopify.com/) for free, uncopyrighted images.*
-- [Espresso](https://pixabay.com/photos/coffee-espresso-short-cup-mug-731330/)
-- [Matcha latte](https://pixabay.com/photos/matcha-green-tea-latt%C3%A9-heart-2683990/)
-- [Chocolate Croissant](https://pixabay.com/photos/chocolate-croissant-bakery-hunger-4840779/)
-- [Egg Sammy](https://pixabay.com/photos/bacon-egg-and-cheese-2834906/)
-- [Bed](https://pixabay.com/photos/bed-pillows-headboard-bedroom-2167288/)
-- [Window](https://pixabay.com/photos/window-window-seat-cushions-2227301/)
-
----
-
-## File Overview
+## Main Files Overview
 
 ### ← README.md
 
@@ -38,16 +11,16 @@ That's this file. This is the place to tell people more about what your website 
 
 ### ← index.html
 
-HTML files are for content! Add your text, images, buttons, and more using HTML tags.
+Holds all the content of this website
 
 ### ← style.css
 
-CSS files add styling rules to your content like changing colors and fonts. 
+Adds all of the style rules, like th pink background or green buttons
 
 ### ← script.js
 
-JavaScript files add interactivity to your website using code. This is where you can listen for events, then take an action.
+For interactivity, like the result of clicking buttons and such
 
 ### ← assets
+Pictures! These are not my pictures and credits go to the owner. 
 
-Drag in assets, like images or music, to add them to your project. You do not need to add anything to this folder unless you are working on the extensions. If you are adding an image, it is best to save it to your computer, then upload the file to the `assets` folder. The url of the image will be `assets/example.jpg`.
